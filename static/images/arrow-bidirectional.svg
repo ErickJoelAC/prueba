@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="32px" viewBox="0 0 34 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Seleccion-de-servicios" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Seleccion-de-servicios-#1-Copy" transform="translate(-451.000000, -525.000000)" fill="#A9ABAE">
+            <g id="Group" transform="translate(451.000000, 525.000000)">
+                <polygon id="Path-3" points="11.3333333 17.0196429 25.4389062 17.3366071 25.5903125 12.8 33.7839583 21.6584821 25.5903125 31.70625 25.5854427 26.8803571 11.4590625 27.0419643 11.3333333 20.4984375"></polygon>
+                <polygon id="Path-3" transform="translate(11.225312, 9.453125) rotate(180.000000) translate(-11.225312, -9.453125) " points="-4.05009359e-13 4.21964286 14.1055729 4.53660714 14.2569792 -7.10542736e-15 22.450625 8.85848214 14.2569792 18.90625 14.2521094 14.0803571 0.125729167 14.2419643 -4.05009359e-13 7.6984375"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
